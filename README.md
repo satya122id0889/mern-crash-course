@@ -19,5 +19,5 @@ A full-stack e-commerce application built with MongoDB, Express, React, and Node
 ## Setup
 1. Clone repo:
 ```bash
-git clone https://github.com/satya122id0889/mern-ecommerce.git
-cd mern-ecommerce
+git clone https://github.com/satya122id0889/mern-crash-course.git
+cd mern-crash-course
